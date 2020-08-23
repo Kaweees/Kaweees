@@ -1,15 +1,3 @@
-
-<h1 align="center">Miguel VF</h1>
-
-<p align="center">
-  <a href="https://novacrypt.org">https://novacrypt.org</a>
-</p>
-
-<p align="center">
-  <b>Contact Me</b> <br>
- -  <a href="tel: "></a> <br>
-  @gmail.com
-</p>
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Kaweees&show_icons=true&count_private=true&include_all_commits=true%align="center")
 
 <!--
