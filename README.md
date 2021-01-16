@@ -1,4 +1,7 @@
-![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Kaweees&show_icons=true&count_private=true&include_all_commits=true)
+<div align="center">
+  ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Kaweees&show_icons=true&count_private=true&include_all_commits=true)
+</div>
+
 
 <!--
 Useful Resources:
