@@ -4,6 +4,12 @@
 
 ## Curious, Contriver and Avid Learner 💻
 
+## What I'm Doing
+
+- 💾 I’m currently a student and frontend developer at [NovaCrypt](https://novacrypt.org/)
+- 🌱 I’m currently learning [Bootstrap 5](https://getbootstrap.com/)
+- 📫 How to reach me: For questions or other things contact me through [`Discord (Kaweees#1134)`]: https://discord.com/users/489505423968436224
+- ⚡ Fun Fact: I play Brawl Stars, here is my id if interested: ** **
 
 ## Github Stats
 
@@ -23,16 +29,3 @@ Useful Resources:
   - Flag List: https://emojipedia.org/flags/
 
 **Kaweees/Kaweees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
