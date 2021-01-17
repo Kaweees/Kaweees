@@ -7,11 +7,14 @@
       <img align="center" alt="Kaweees's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kaweees&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=2f96c0&text_color=D8AB4C&bg_color=222222"/>
     </td>
   </tr>
-</table>  
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaweees&title_color=fff&icon_color=2f96c0&text_color=D8AB4C&bg_color=222222)
+</table>
+<table align="center">
+  <tr>
+    <td>
+      <img align="center" alt="Kaweees's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaweees&title_color=fff&icon_color=2f96c0&text_color=D8AB4C&bg_color=222222"/>
+    </td>
+  </tr>
+</table>
 
 
 
