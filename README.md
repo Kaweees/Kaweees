@@ -1,4 +1,6 @@
-# Hi, I'm Kaweees 👋
+<h1 align="center">Hi, I'm Kaweees 👋</h1>
+<h4 align="center">Also known as "Kiwis"</h5>
+<h3 align="center">Curious, Contriver and Avid Learner 💻</h3>
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Kaweees&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=2f96c0&text_color=D8AB4C&bg_color=222222)
 
