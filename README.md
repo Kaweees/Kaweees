@@ -1,8 +1,8 @@
-#Hi, I'm Kaweees 👋
+# Hi, I'm Kaweees 👋
 
-###Also known as "Kiwis"
+### Also known as "Kiwis"
 
-##Curious, Contriver and Avid Learner 💻
+## Curious, Contriver and Avid Learner 💻
 
 ![basic-stats](https://github-readme-stats.vercel.app/api?username=Kaweees&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=2f96c0&text_color=D8AB4C&bg_color=222222")
 
