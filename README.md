@@ -4,7 +4,7 @@
 
 ## Curious, Contriver and Avid Learner 💻
 
-![basic-stats](https://github-readme-stats.vercel.app/api?username=Kaweees&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=2f96c0&text_color=D8AB4C&bg_color=222222")
+![basic-stats](https://github-readme-stats.vercel.app/api?username=Kaweees&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=2f96c0&text_color=D8AB4C&bg_color=222222)
 
 ![language-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaweees&title_color=fff&icon_color=2f96c0&text_color=D8AB4C&bg_color=222222)
     </td>
