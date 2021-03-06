@@ -6,7 +6,7 @@
 
 ## What I'm Doing
 
-- 💾 I’m currently a student and a frontend developer at [NovaCrypt](https://novacrypt.org/)
+- 💾 I’m currently a high school student and a frontend developer at [NovaCrypt](https://novacrypt.org/)
 - 🌱 I’m currently learning [Bootstrap 5](https://getbootstrap.com/)
 - 📫 How to reach me: For questions or other things contact me through [Discord (Kaweees#1134)](https://discord.com/users/489505423968436224)
 - ⚡ Fun Fact: I play Brawl Stars, here is my id if interested: ** **
