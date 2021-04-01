@@ -2,7 +2,7 @@
 
 #### Also known as "Kiwis"
 
-## Curious, Contriver and Avid Learner 💻
+## Curious, Contriver, and Avid Learner 💻
 
 ## What I'm Doing
 
