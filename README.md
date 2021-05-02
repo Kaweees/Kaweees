@@ -39,6 +39,9 @@
 
 > Stats taken from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaweees" alt="kaweees" /></a> </p>
+
+
 ![basic-stats](https://github-readme-stats.vercel.app/api?username=Kaweees&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=2f96c0&text_color=D8C787&bg_color=222222)
 
 ![language-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaweees&title_color=fff&icon_color=2f96c0&text_color=D8C787&bg_color=222222)
