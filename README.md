@@ -6,7 +6,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Kaweees alt=Kaweees/> </p>
 
-<p align="left"> <a href="https://twitter.com/Kaweees1" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="Kaweees" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Kaweees1" target="blank"><img src="https://img.shields.io/twitter/follow/Kaweees1?logo=twitter&style=for-the-badge" alt="Kaweees" /></a> </p>
 
 ## What I'm Doing
 
