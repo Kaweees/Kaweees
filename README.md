@@ -13,16 +13,18 @@
 - 💾 I’m currently a high school student and a frontend developer at [NovaCrypt](https://novacrypt.org/)
 - 🌱 I’m currently learning [Bootstrap 5](https://getbootstrap.com/)
 - 📫 How to reach me: For questions or other things contact me through [Discord (Kaweees#1134)](https://discord.com/users/489505423968436224)
-- ⚡ Fun Fact: I play Brawl Stars, here is my id if interested: **PV9CC8CJU**
+- 💬 Ask me about React, Arduino and Python
 - ✉️ miguelvillafloran@gmail.com
 - 🎨 Portfolio: https://miguelvf.com/
 - 💼 LinkedIn: https://www.linkedin.com/in/miguel-vf/
+- ⚡ Fun Fact: I play Brawl Stars, here is my id if interested: **PV9CC8CJU**
 
 ## Connect with me
 <p align="left">
   <a href="mailto:miguelvillafloran@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40"></a>
-  <a href="https://linkedin.com/in/miguel-vf/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40"></a>
   <a href="https://twitter.com/Kaweees1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Kaweees" height="30" width="40"></a>
+  <a href="https://linkedin.com/in/miguel-vf/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40"></a>
+  <a href="https://instagram.com/Kaweees" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Kaweees" height="30" width="40"></a>
 </p>
 
 ## Languages and Tools
