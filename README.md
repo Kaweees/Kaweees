@@ -2,7 +2,7 @@
 
 #### Also known as "Kiwis"
 
-## Curious, Contriver, and Avid Learner 💻
+## Curious, Creative, and Clever 💻
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Kaweees alt=Kaweees></p>
 
