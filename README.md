@@ -1,5 +1,7 @@
 # Hi, I'm Kaweees 👋
 
+[<img src="assets/img/Kaweees.png" align="right" width="100">](https://github.com/Kaweees)
+
 #### Also known as "Kiwis"
 
 ## Curious, Creative, and Clever 💻
