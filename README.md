@@ -20,6 +20,7 @@
 - 🎨 Portfolio: https://miguelvf.com/
 - 💼 LinkedIn: https://www.linkedin.com/in/miguel-vf/
 - ⚡ Fun Fact: I play Brawl Stars, here is my id if interested: **PV9CC8CJU**
+- 🚀 I'm always open to collaborate on cool and interesting projects 
 
 ## Connect with me
 <p align="left">
