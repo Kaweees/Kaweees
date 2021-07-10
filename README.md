@@ -1,4 +1,4 @@
-# Hi, I'm Kaweees 👋
+# Hi, I'm Kaweees <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
 
 [<img src="assets/img/Kaweees.png" align="right" width="100">](https://github.com/Kaweees)
 
