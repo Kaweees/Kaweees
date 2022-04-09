@@ -12,10 +12,10 @@
 
 ## What I'm Doing
 
-- 💾 I’m currently a high school student and a frontend developer at [NovaCrypt](https://novacrypt.org/)
+<!-- - 💾 I’m currently a high school student and a frontend developer at [NovaCrypt](https://novacrypt.org/)
 - 🌱 I’m currently learning [Bootstrap 5](https://getbootstrap.com/)
 - 📫 How to reach me: For questions or other things contact me through [Discord (Kaweees#4851)](https://discord.com/users/489505423968436224)
-- 💬 Ask me about React, Arduino and Python
+- 💬 Ask me about React, Arduino and Python -->
 - ✉️ Email: miguelvillafloran@gmail.com
 - 🎨 Portfolio: https://miguelvf.com
 - 💼 LinkedIn: https://www.linkedin.com/in/miguel-vf/
