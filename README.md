@@ -8,8 +8,6 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Kaweees alt=Kaweees></p>
 
-<p align="left"><a href="https://twitter.com/Kaweees1" target="blank"><img src="https://img.shields.io/twitter/follow/Kaweees1?logo=twitter&style=for-the-badge" alt="Kaweees"></a></p>
-
 ## What I'm Doing
 
 <!-- - 💾 I’m currently a high school student and a frontend developer at [NovaCrypt](https://novacrypt.org/)
