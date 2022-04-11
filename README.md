@@ -65,13 +65,18 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
 </p>
 
-## Github Stats
+## 📊 Github Stats
 
 > Stats taken from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-![basic-stats](https://github-readme-stats.vercel.app/api?username=Kaweees&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=2f96c0&text_color=D8C787&bg_color=222222)
-
-![language-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaweees&title_color=fff&icon_color=2f96c0&text_color=D8C787&bg_color=222222)
+<div style="display: flex;">
+  <a href="https://github.com/Kaweees" alt="Kaweees's GitHub Stats" style="margin: 5px;">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kaweees&count_private=true&show_icons=true&border_color=fff&border_radius=5&bg_color=222222&title_color=fff&icon_color=2f96c0&text_color=D8C787" />
+  </a>
+  <a href="https://github.com/Kaweees" alt="Kaweees's GitHub Stats" style="margin: 5px;">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaweees&layout=compact&langs_count=10&border_color=fff&border_radius=5&bg_color=222222&title_color=fff&text_color=D8C787" />
+  </a>
+</div>
 
 <!--
 Useful Resources:
