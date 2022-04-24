@@ -6,18 +6,18 @@
 
 ## Curious, Creative, and Clever 💻
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=Kaweees alt=Kaweees></p>
+<div style="display: flex;">
+  <a href="https://github.com/Kaweees" alt="Kaweees's GitHub Stats" style="margin: 5px;">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kaweees&count_private=true&show_icons=true&border_color=fff&border_radius=5&bg_color=222222&title_color=fff&icon_color=2f96c0&text_color=D8C787" />
+  </a>
+  <a href="https://github.com/Kaweees" alt="Kaweees's GitHub Stats" style="margin: 5px;">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaweees&layout=compact&langs_count=10&border_color=fff&border_radius=5&bg_color=222222&title_color=fff&text_color=D8C787" />
+  </a>
+</div>
 
-## 📬 Connect with Me
-<!-- - 💾 I’m currently a high school student and a frontend developer at [NovaCrypt](https://novacrypt.org/)
-- 🌱 I’m currently learning [Bootstrap 5](https://getbootstrap.com/)
-- 📫 How to reach me: For questions or other things contact me through [Discord (Kaweees#4851)](https://discord.com/users/489505423968436224)
-- 💬 Ask me about React, Arduino and Python -->
-- ✉️ Email: miguelvillafloran@gmail.com
-- 🎨 Portfolio: https://miguelvf.com
-- 💼 LinkedIn: https://www.linkedin.com/in/miguel-vf/
-- ⚡ Fun Fact: I play Brawl Stars, here is my id if interested: **PV9CC8CJU**
-- 🚀 I'm always open to collaborate on cool and interesting projects 
+[![Contribution Snake](https://raw.githubusercontent.com/Kaweees/Kaweees/output/github-snake-custom.svg)](https://github.com/Platane/snk)
+
+
 
 ## 💻 My Tech Stack
 
@@ -57,20 +57,20 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://www.vexrobotics.com/vexcode" target="_blank"><img src="assets/img/VEXcode_PRO.png" alt="vexcode pro" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
 </div>
 
-## 📊 Github Stats
+## 📬 Connect with Me
+- ✉️ Email: miguelvillafloran@gmail.com
+- 🎨 Portfolio: https://miguelvf.com
+- 💼 LinkedIn: https://www.linkedin.com/in/miguel-vf/
+- ⚡ Fun Fact: I play Brawl Stars, here is my id if interested: **PV9CC8CJU**
+- 🚀 I'm always open to collaborate on cool and interesting projects 
 
-> Stats taken from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: flex;">
-  <a href="https://github.com/Kaweees" alt="Kaweees's GitHub Stats" style="margin: 5px;">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kaweees&count_private=true&show_icons=true&border_color=fff&border_radius=5&bg_color=222222&title_color=fff&icon_color=2f96c0&text_color=D8C787" />
-  </a>
-  <a href="https://github.com/Kaweees" alt="Kaweees's GitHub Stats" style="margin: 5px;">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaweees&layout=compact&langs_count=10&border_color=fff&border_radius=5&bg_color=222222&title_color=fff&text_color=D8C787" />
-  </a>
-</div>
+<!--
+Useful Resources:
+  - Flag List: https://emojipedia.org/flags/
+
+**Kaweees/Kaweees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
