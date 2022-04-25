@@ -6,7 +6,7 @@
 
 ## Curious, Creative, and Clever 💻
 
-<div style="display: flex;">
+<div style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/Kaweees" alt="Kaweees's GitHub Stats" style="margin: 5px;">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kaweees&count_private=true&show_icons=true&border_color=fff&border_radius=5&bg_color=222222&title_color=fff&icon_color=2f96c0&text_color=D8C787" />
   </a>
