@@ -31,8 +31,6 @@ jobs:
           outputs: |
             dist/github-snake-light.svg?color_snake=#4489ec&palette=github-dark
             dist/github-snake-dark.svg?color_snake=#4489ec&
-      # show the status of the build for debugging
-      - run: git status
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-snake-custom.svg to the output branch
