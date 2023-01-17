@@ -15,8 +15,8 @@
   </a>
 </div>
 
-![Contribution Snake](https://raw.githubusercontent.com/Kaweees/Kaweees/output/github-snake-dark.svg#gh-dark-mode-only)![Contribution Snake](https://raw.githubusercontent.com/Kaweees/Kaweees/output/github-snake-light.svg#gh-light-mode-only)
-
+![Contribution Snake Light](https://raw.githubusercontent.com/Kaweees/Kaweees/output/github-snake-light.svg#gh-light-mode-only)
+![Contribution Snake Dark](https://raw.githubusercontent.com/Kaweees/Kaweees/output/github-snake-dark.svg#gh-dark-mode-only)
 ## 💻 My Tech Stack
 
 ### 🛠️ Languages
