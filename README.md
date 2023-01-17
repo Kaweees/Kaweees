@@ -7,10 +7,10 @@
 ## Curious, Creative, and Clever 💻
 
 <div style="display: flex; flex-wrap: wrap;">
-  <code><a href="https://github.com/Kaweees" alt="Kaweees's GitHub Stats" style="margin: 5px;">
+  <a href="https://github.com/Kaweees" alt="Kaweees's GitHub Stats" style="margin: 5px;">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kaweees&count_private=true&show_icons=true&border_color=fff&border_radius=5&bg_color=222222&title_color=fff&icon_color=2f96c0&text_color=D8C787" />
   </a>
-  <code><a href="https://github.com/Kaweees" alt="Kaweees's GitHub Stats" style="margin: 5px;">
+  <a href="https://github.com/Kaweees" alt="Kaweees's GitHub Stats" style="margin: 5px;">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaweees&layout=compact&langs_count=10&border_color=fff&border_radius=5&bg_color=222222&title_color=fff&text_color=D8C787" />
   </a>
 </div>
@@ -21,7 +21,7 @@
 
 ### 🛠️ Languages
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: flex-start;">
   <code><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></code>
   <code><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
   <code><a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a></code>
@@ -37,7 +37,7 @@
 
 ### 🛠️ Tools & Technologies
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: flex-start;">
   <code><a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></code>
   <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a></code>
   <code><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a></code>
