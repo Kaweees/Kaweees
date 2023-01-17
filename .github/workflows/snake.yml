@@ -12,7 +12,7 @@ on:
   push:
     branches:
     - master
-    - main- run: git status
+    - main
 # The sequence of runs in this workflow:
 jobs:
   # This workflow contains a single job called "generate"
