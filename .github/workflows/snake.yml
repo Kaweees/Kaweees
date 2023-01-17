@@ -12,29 +12,33 @@ on:
   push:
     branches:
     - master
-    - main
-
+    - main- run: git status
+# The sequence of runs in this workflow:
 jobs:
+  # This workflow contains a single job called "generate"
   generate:
     name: Jobs to update dataset
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2.0.0-rc.1
+        id: generate-snake-svg
+        uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake-light.svg?color_snake=#4489ec&palette=github-dark
             dist/github-snake-dark.svg?color_snake=#4489ec&
-
+      # show the status of the build for debugging
+      - run: git status
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-snake-custom.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
+        # the output branch mentioned above
           target_branch: output
           build_dir: dist
         env:
