@@ -63,7 +63,7 @@
 </div>
 
 ## 📬 Connect with Me
-- ✉️ Email: miguelvillafloran@gmail.com
+- ✉️ Email: mavillaf@calpoly.edu
 - 🎨 Portfolio: https://miguelvf.dev/
 - 💼 LinkedIn: https://www.linkedin.com/in/miguel-vf/
 - 🚀 I'm always open to collaborate on cool and interesting projects 
