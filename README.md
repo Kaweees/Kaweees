@@ -4,12 +4,6 @@
 [<img src="assets/img/Kaweees.png" align="right" width="100">](https://github.com/Kaweees)
 I'm Miguel, a Computer Engieering student at Cal Poly San Luis Obispo. This is a portfolio and archive of my journey to explore and conquer the inner workings of computers, from the subatomic particles in transistors to the cool stuff we do with processors, operating systems, and web browsers.
 
-## 🕵️ About me
-  - **🧙‍♂️ Hacker** - I like to build stuff and learn about how things work. Currently fixated on embedded systems and robotics.
-  - **🐧 Linux user** - I love the freedom and customizability of the open-source ecosystem. Currently maining Ubuntu.
-  - **📚 Bookworm** - I love reading books about technology, philosophy, and history.
-  - **🥝 Kiwi dealer** - They're   delicious and I can't get enough of them.
-
 ## 📬 Connect with Me
   - **💼 LinkedIn** - https://www.linkedin.com/in/miguel-vf/
   - **🎨 Portfolio** - https://miguelvf.dev/
