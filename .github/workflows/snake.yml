@@ -29,7 +29,7 @@ jobs:
           # github user name to read the contribution graph from (required)
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake-light.svg?color_snake=#4489ec&color_dots=#4489ec,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-snake-light.svg?color_snake=#4489ec&color_dots=#2d333b,#9be9a8,#40c463,#30a14e,#216e39
             dist/github-snake-dark.svg?color_snake=#4489ec&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
         env:
           # required to fetch the contribution calendar from github API
