@@ -8,7 +8,7 @@ I'm Miguel, a Computer Engieering student at Cal Poly San Luis Obispo. This is a
   - **💼 LinkedIn** - https://www.linkedin.com/in/miguel-vf/
   - **🎨 Portfolio** - https://miguelvf.dev/
   - **📄 Resume** - https://miguelvf.dev/resume/
-  - **✉️ Email** - mavillaf@calpoly.edu
+  - **✉️ Email** - miguel.villafloran@gmail.com
   - 🚀 I'm always open to collaborate on cool and interesting projects  
 
 ## 💻 Tech Stack
