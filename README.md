@@ -1,15 +1,15 @@
 <!-- **Kaweees/Kaweees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-## 👋 Howdy 
+## 👋 Howdy
 
 [<img src="assets/img/Kaweees.png" align="right" width="100">](https://github.com/Kaweees)
 I'm Miguel, a Computer Engieering student at Cal Poly San Luis Obispo. This is a portfolio and archive of my journey to explore and conquer the inner workings of computers, from the subatomic particles in transistors to the cool stuff we do with processors, operating systems, and web browsers.
 
-## 📬 Connect with Me
+<!-- ## 📬 Connect with Me
   - **💼 LinkedIn** - https://www.linkedin.com/in/miguel-vf/
   - **🎨 Portfolio** - https://miguelvf.dev/
   - **📄 Resume** - https://miguelvf.dev/resume/
   - **✉️ Email** - miguel.villafloran@gmail.com
-  - 🚀 I'm always open to collaborate on cool and interesting projects  
+  - 🚀 I'm always open to collaborate on cool and interesting projects
 
 ## 💻 Tech Stack
 <div style="display: flex; flex-wrap: wrap;">
@@ -22,4 +22,4 @@ I'm Miguel, a Computer Engieering student at Cal Poly San Luis Obispo. This is a
 </div>
 
 ![Contribution Snake Light](https://raw.githubusercontent.com/Kaweees/Kaweees/output/github-snake-light.svg#gh-light-mode-only)
-![Contribution Snake Dark](https://raw.githubusercontent.com/Kaweees/Kaweees/output/github-snake-dark.svg#gh-dark-mode-only)
+![Contribution Snake Dark](https://raw.githubusercontent.com/Kaweees/Kaweees/output/github-snake-dark.svg#gh-dark-mode-only) -->
